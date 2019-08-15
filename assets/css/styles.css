@@ -1,0 +1,8 @@
+.navbar-brand.text-dark.shadow-sm {
+  font-weight: bold;
+}
+
+.navbar-light .navbar-brand {
+  font-weight: bold;
+}
+
