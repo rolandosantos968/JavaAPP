@@ -1,1 +1,0 @@
-somo la para
