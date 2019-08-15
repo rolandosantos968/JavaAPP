@@ -3,8 +3,13 @@ public class Main{
     
    
 
-public static void main(String []args) {
+    public static void main(String []args) {
+    //yo tengo la maña de haceme la paja
+    //yo tengo la maña de haceme la paja
+    for(int i=0;i>=20;i++){
 
-
-  }
+        System.out.println("Yo tengo la maña de haceme la paja");
+        
+        }
+    }
 }
